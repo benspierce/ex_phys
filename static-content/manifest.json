@@ -1,0 +1,11 @@
+{
+  "classes": [
+    "no-translanguaging"
+  ],
+  "content_notice": "",
+  "eventServerUrl": false,
+  "routes": {
+    "/": "sp/sp_sba"
+  },
+  "title": "The New Client's Strength Plateau (SBA draft)"
+}

@@ -1,0 +1,24 @@
+{
+  "activities": {
+    "sp/sp_sba": {
+      "availableVariants": {
+        "en-Latn-US": "supported"
+      },
+      "category": "strength_plateau",
+      "description": {
+        "en-Latn-US": "The New Client's Strength Plateau (ESMS 3700, draft). You join a gym's trainers' PLC as Jamal brings a client whose bench press has stalled at 135 for 8. Over five short cases with Jamal, Tasha, and Marcus you work through fiber types, individual differences, satellite cells, and soreness after eccentric work, then give Jamal a recommendation to take back to his client."
+      },
+      "editPath": "strength_plateau_sba.olx",
+      "editSource": "file:content",
+      "id": "sp/sp_sba",
+      "index": 1,
+      "role": "activity",
+      "status": "usable",
+      "tag": "Cast",
+      "title": {
+        "en-Latn-US": "The New Client's Strength Plateau"
+      }
+    }
+  },
+  "ok": true
+}

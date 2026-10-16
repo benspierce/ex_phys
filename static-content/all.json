@@ -1,0 +1,5971 @@
+{
+  "idMap": {
+    "sp/_0294d81fd95442a57b865e82a63e045f8b14c396": {
+      "*": {
+        "_sourceOffset": 14039,
+        "attributes": {
+          "value": "sp_q5_fb_a"
+        },
+        "id": "sp/_0294d81fd95442a57b865e82a63e045f8b14c396",
+        "kids": [
+          {
+            "definitionKey": "sp/_da07cf79de2a239a8148723f70fe7b9946b6e4cb",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Distractor"
+      }
+    },
+    "sp/_1453850e26a9215c13531d78a5fd49fa22ce8dcf": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_1453850e26a9215c13531d78a5fd49fa22ce8dcf",
+        "kids": "Recovery: sleep, nutrition, and stress affect how well the muscle adapts between sessions",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_18424431bf129e6419367e54f3de4419ae40e6de": {
+      "*": {
+        "_sourceOffset": 5187,
+        "attributes": {
+          "value": "sp_q2_fb_c"
+        },
+        "id": "sp/_18424431bf129e6419367e54f3de4419ae40e6de",
+        "kids": [
+          {
+            "definitionKey": "sp/_968f2c5b2cb84d50704ff7aa2c7d7ee7ed7aa18c",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Distractor"
+      }
+    },
+    "sp/_1a4e3693172f2c3debc3c4deff04cdaaa7426175": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_1a4e3693172f2c3debc3c4deff04cdaaa7426175",
+        "kids": "B. Fast-twitch fibers support powerful work with quicker fatigue.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_21089cf9745463c3c3be821c7fa5d8c1fb6a0ce6": {
+      "*": {
+        "_sourceOffset": 3604,
+        "attributes": {
+        },
+        "id": "sp/_21089cf9745463c3c3be821c7fa5d8c1fb6a0ce6",
+        "kids": [
+          {
+            "definitionKey": "sp/_d6819926c9814896ff315e6435948c95c5a4964c",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Key"
+      }
+    },
+    "sp/_3c4b15ed109be81b2986fddca09c577a2a72a2ca": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_3c4b15ed109be81b2986fddca09c577a2a72a2ca",
+        "kids": "C. They support recovery, but rest is still necessary.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_480bcacd89045e4b568c22b9ec76042586e08783": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_480bcacd89045e4b568c22b9ec76042586e08783",
+        "kids": "C. Satellite cells support endurance work with slower fatigue.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_4c170c12d8f34768ad59f1e2338b63fe37257631": {
+      "*": {
+        "_sourceOffset": 11030,
+        "attributes": {
+          "value": "sp_q4_fb_a"
+        },
+        "id": "sp/_4c170c12d8f34768ad59f1e2338b63fe37257631",
+        "kids": [
+          {
+            "definitionKey": "sp/_9c332b96010983e0e320991c3bef28ee8d205dbb",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Distractor"
+      }
+    },
+    "sp/_58395c01f24dc22d988aecb625399e810ce87f42": {
+      "*": {
+        "_sourceOffset": 4991,
+        "attributes": {
+          "value": "sp_q2_fb_a"
+        },
+        "id": "sp/_58395c01f24dc22d988aecb625399e810ce87f42",
+        "kids": [
+          {
+            "definitionKey": "sp/_f040f02ea65bf86851975be19dfae9165c45b102",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Distractor"
+      }
+    },
+    "sp/_5f092265a232dde489109b5930065a3c0e7fa557": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_5f092265a232dde489109b5930065a3c0e7fa557",
+        "kids": "Progression: the same load and reps for four weeks gives the muscle no new stimulus (progressive overload)",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_64fb258b0db4329d764521de5b216dced6638dc6": {
+      "*": {
+        "_sourceOffset": 3408,
+        "attributes": {
+        },
+        "id": "sp/_64fb258b0db4329d764521de5b216dced6638dc6",
+        "kids": [
+          {
+            "definitionKey": "sp/_f0413f7fac0a9f96e4bb1a6e3df59a506467b97c",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Key"
+      }
+    },
+    "sp/_75084ffa01b5e769bf6baa23100872686e0436cc": {
+      "*": {
+        "_sourceOffset": 3513,
+        "attributes": {
+        },
+        "id": "sp/_75084ffa01b5e769bf6baa23100872686e0436cc",
+        "kids": [
+          {
+            "definitionKey": "sp/_c0949816adf3c40209c4ca84743bdd68d2ca401c",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Key"
+      }
+    },
+    "sp/_7b349d730f337e1ee6beedc149b5deea5d47a43a": {
+      "*": {
+        "_sourceOffset": 8192,
+        "attributes": {
+          "value": "sp_q3_fb_b"
+        },
+        "id": "sp/_7b349d730f337e1ee6beedc149b5deea5d47a43a",
+        "kids": [
+          {
+            "definitionKey": "sp/_1a4e3693172f2c3debc3c4deff04cdaaa7426175",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Key"
+      }
+    },
+    "sp/_8a1826854b5b1341daddee7ea675146492b45e97": {
+      "*": {
+        "_sourceOffset": 11208,
+        "attributes": {
+          "value": "sp_q4_fb_c"
+        },
+        "id": "sp/_8a1826854b5b1341daddee7ea675146492b45e97",
+        "kids": [
+          {
+            "definitionKey": "sp/_3c4b15ed109be81b2986fddca09c577a2a72a2ca",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Distractor"
+      }
+    },
+    "sp/_90604bc5fda20fed1f072934286c5af0a3fb2e25": {
+      "*": {
+        "_sourceOffset": 8063,
+        "attributes": {
+          "value": "sp_q3_fb_a"
+        },
+        "id": "sp/_90604bc5fda20fed1f072934286c5af0a3fb2e25",
+        "kids": [
+          {
+            "definitionKey": "sp/_c0deb48768bfc2391dfd4c0340865c84e54d7c20",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Distractor"
+      }
+    },
+    "sp/_9162956ecba474d62a193fcfd71b4f193db60c21": {
+      "*": {
+        "_sourceOffset": 5101,
+        "attributes": {
+          "value": "sp_q2_fb_b"
+        },
+        "id": "sp/_9162956ecba474d62a193fcfd71b4f193db60c21",
+        "kids": [
+          {
+            "definitionKey": "sp/_a7297585a866454c53c9e8c43e9501216994d499",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Key"
+      }
+    },
+    "sp/_968f2c5b2cb84d50704ff7aa2c7d7ee7ed7aa18c": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_968f2c5b2cb84d50704ff7aa2c7d7ee7ed7aa18c",
+        "kids": "C. Soreness predicts future strength and endurance gains.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_9c332b96010983e0e320991c3bef28ee8d205dbb": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_9c332b96010983e0e320991c3bef28ee8d205dbb",
+        "kids": "A. They reduce all soreness by blocking muscle damage.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_a64df5b9a9192e48c2b123304656df916ea0f118": {
+      "*": {
+        "_sourceOffset": 3699,
+        "attributes": {
+        },
+        "id": "sp/_a64df5b9a9192e48c2b123304656df916ea0f118",
+        "kids": [
+          {
+            "definitionKey": "sp/_b296c6d564d841eda83c825878c11cc6bbfb11d9",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Key"
+      }
+    },
+    "sp/_a6cc7af58ed56c537c64fe86c98742caa4c44231": {
+      "*": {
+        "_sourceOffset": 14142,
+        "attributes": {
+          "value": "sp_q5_fb_b"
+        },
+        "id": "sp/_a6cc7af58ed56c537c64fe86c98742caa4c44231",
+        "kids": [
+          {
+            "definitionKey": "sp/_b71bb8e67e9070e834081e8f6bdae2f6780a850b",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Distractor"
+      }
+    },
+    "sp/_a7297585a866454c53c9e8c43e9501216994d499": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_a7297585a866454c53c9e8c43e9501216994d499",
+        "kids": "B. Genetics influence fiber type and training response.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_ae41a5446328738f9adda391e54fd32960caee52": {
+      "*": {
+        "_sourceOffset": 3189,
+        "attributes": {
+        },
+        "id": "sp/_ae41a5446328738f9adda391e54fd32960caee52",
+        "kids": [
+          {
+            "definitionKey": "sp/_5f092265a232dde489109b5930065a3c0e7fa557",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Key"
+      }
+    },
+    "sp/_b296c6d564d841eda83c825878c11cc6bbfb11d9": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_b296c6d564d841eda83c825878c11cc6bbfb11d9",
+        "kids": "A concrete recommendation Jamal can take back to the client",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_b71bb8e67e9070e834081e8f6bdae2f6780a850b": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_b71bb8e67e9070e834081e8f6bdae2f6780a850b",
+        "kids": "B. Remove resistance training until soreness fully disappears.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_bc10cb1dd0edfe960e0e38b49a3c630ec4f444c9": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_bc10cb1dd0edfe960e0e38b49a3c630ec4f444c9",
+        "kids": "C. Lower volume and progress eccentric work gradually.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_c0949816adf3c40209c4ca84743bdd68d2ca401c": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_c0949816adf3c40209c4ca84743bdd68d2ca401c",
+        "kids": "Individual differences: genetics and fiber type affect how fast people progress",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_c0deb48768bfc2391dfd4c0340865c84e54d7c20": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_c0deb48768bfc2391dfd4c0340865c84e54d7c20",
+        "kids": "A. Slow-twitch fibers support steady endurance work with greater fatigue resistance.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_cc066e7dbab91bc1eb517e7fd2ee806ab28928b6": {
+      "*": {
+        "_sourceOffset": 8288,
+        "attributes": {
+          "value": "sp_q3_fb_c"
+        },
+        "id": "sp/_cc066e7dbab91bc1eb517e7fd2ee806ab28928b6",
+        "kids": [
+          {
+            "definitionKey": "sp/_480bcacd89045e4b568c22b9ec76042586e08783",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Distractor"
+      }
+    },
+    "sp/_d6819926c9814896ff315e6435948c95c5a4964c": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_d6819926c9814896ff315e6435948c95c5a4964c",
+        "kids": "Soreness and training load: lingering soreness may mean the client isn't recovering",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_da07cf79de2a239a8148723f70fe7b9946b6e4cb": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_da07cf79de2a239a8148723f70fe7b9946b6e4cb",
+        "kids": "A. Increase eccentric loading to speed adaptation quickly.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_da98f4129ac4eb8d4af076ace094e7c3ecb88804": {
+      "*": {
+        "_sourceOffset": 3307,
+        "attributes": {
+        },
+        "id": "sp/_da98f4129ac4eb8d4af076ace094e7c3ecb88804",
+        "kids": [
+          {
+            "definitionKey": "sp/_1453850e26a9215c13531d78a5fd49fa22ce8dcf",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Key"
+      }
+    },
+    "sp/_dddf428709c4c691ef415e0f847308f3c1591881": {
+      "*": {
+        "_sourceOffset": 11129,
+        "attributes": {
+          "value": "sp_q4_fb_b"
+        },
+        "id": "sp/_dddf428709c4c691ef415e0f847308f3c1591881",
+        "kids": [
+          {
+            "definitionKey": "sp/_ff2448070d04792d0f8439973adc65ffe176a17b",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Key"
+      }
+    },
+    "sp/_e9840758dfc3e1a1fdb6e737b6f7ec0df25a0c3b": {
+      "*": {
+        "_sourceOffset": 14249,
+        "attributes": {
+          "value": "sp_q5_fb_c"
+        },
+        "id": "sp/_e9840758dfc3e1a1fdb6e737b6f7ec0df25a0c3b",
+        "kids": [
+          {
+            "definitionKey": "sp/_bc10cb1dd0edfe960e0e38b49a3c630ec4f444c9",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Key"
+      }
+    },
+    "sp/_f040f02ea65bf86851975be19dfae9165c45b102": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_f040f02ea65bf86851975be19dfae9165c45b102",
+        "kids": "A. Training effort determines all strength and endurance changes.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_f0413f7fac0a9f96e4bb1a6e3df59a506467b97c": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_f0413f7fac0a9f96e4bb1a6e3df59a506467b97c",
+        "kids": "Early strength gains come largely from the nervous system and level off after the first weeks",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/_ff2448070d04792d0f8439973adc65ffe176a17b": {
+      "*": {
+        "attributes": {
+        },
+        "id": "sp/_ff2448070d04792d0f8439973adc65ffe176a17b",
+        "kids": "B. They repair fibers and support muscle growth.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_activities": {
+      "*": {
+        "_sourceOffset": 1377,
+        "attributes": {
+          "id": "sp_activities"
+        },
+        "id": "sp/sp_activities",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_log",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q1",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q1_check",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_progress",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_factors",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_choice_wrap",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_feedback",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_fb_a",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_fb_b",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_fb_c",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_choice_wrap",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_feedback",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_fb_a",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_fb_b",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_fb_c",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_choice_wrap",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_feedback",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_fb_a",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_fb_b",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_fb_c",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_choice_wrap",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_feedback",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_a",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_b",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_c",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q6",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_fb_pending",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_adjust": {
+      "*": {
+        "_sourceOffset": 10594,
+        "attributes": {
+          "id": "sp_adjust"
+        },
+        "id": "sp/sp_adjust",
+        "kids": "**Adjusting after a hard eccentric session**\n\n| Option | Verdict |\n|---|---|\n| Push harder: add more eccentric load to speed up adaptation | ✗ Raises soreness and injury risk |\n| Stop all resistance training until the soreness is gone | ◐ Usually unnecessary, and it doesn't say how to adjust |\n| Lower the volume and progress the eccentric work gradually | ✓ Lets the muscle adapt while limiting soreness and risk |\n\n**The repeated bout effect.** After a first bout of eccentric work, the muscle adapts quickly, so the next similar session usually causes much less soreness. That's why easing back in works.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_chat": {
+      "en-Latn-US": {
+        "_sourceOffset": 1388,
+        "attributes": {
+          "height": "calc(100vh - 270px)",
+          "id": "sp_chat",
+          "src": "sp_dialogue.chatpeg"
+        },
+        "id": "sp/sp_chat",
+        "kids": {
+          "parsed": {
+            "body": [
+              {
+                "metadata": {
+                  "id": "sp_c1"
+                },
+                "title": "The Plateau",
+                "type": "SectionHeader"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Okay, everyone, let's get started. Welcome to the PLC. For our newest member: once a week, one of us brings a real client case, and the rest of us help think it through before anybody changes a program.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Ground rules are simple. Look at the evidence first, say what you think is going on and why, and connect it to the science. Whatever we're looking at goes up on the screen on the right. Jamal, you've got the floor.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "Thanks. So I picked up a new client about two months ago. Great attitude, never misses a session. For the first few weeks, every number went up.\n",
+                "type": "Line"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p1_log"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "But take a look at the bench press from the last four weeks. I've put the log up on the right.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "Same weight, same reps, every Monday for a month. 135 for 8. Nothing's moving. I need to understand which factors matter most so I can guide the client well.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "So Jamal's client is stuck. Before we change the program, what should we be examining?\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "A lot could be in play. Recovery, how the muscle is actually contracting, fiber type differences, training volume. Any of those could slow strength gains.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "A couple more things. The client says they've been pretty sore after sessions lately, and they started a new job, so sleep has been rough.\n",
+                "type": "Line"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p1_clues"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Good, those are clues. I've added them to the case file: soreness, recovery, progression, training load. Before Marcus and I weigh in, I want everyone's own first read.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "options": null,
+                "ref": "sp/sp_q1",
+                "type": "EmbedCommand"
+              },
+              {
+                "expression": "wordcount(@sp_q1_answer.value) >= 12",
+                "type": "WaitCommand"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Thanks. Here's how a couple of us would have answered.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "I'd start with progression. Look at the log: 135 for 8, four weeks running. A muscle adapts to the demand you put on it. Once it can handle 135 for 8, that session isn't asking it to do anything new. That's progressive overload, and right now there isn't any.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "That's fair. I've been so focused on clean reps that I haven't been nudging the weight or the reps up.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "I'd put recovery right next to it. The workout is the stimulus. The adaptation happens afterward, while the client rests, sleeps, and eats. Short sleep, a stressful new job, and soreness that hangs around all suggest recovery isn't keeping up.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "And remember the early weeks. A lot of a beginner's first strength gains come from the nervous system: recruiting more motor units and coordinating the lift better. Those gains come fast and then level off. After that, progress depends more on the muscle itself adapting, and that's slower.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "People also adapt at different rates, because of genetics, fiber type, and training history. We'll take these one at a time over the next few cases.\n",
+                "type": "Line"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p1_read"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "I've put our first read on the right, next to yours. Which of these ideas were already in your answer?\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "options": null,
+                "ref": "sp/sp_q1_check",
+                "type": "EmbedCommand"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Hold on to your answer. We'll come back to Jamal's client at the end, and you'll get a chance to sharpen your recommendation.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                  "id": "sp_c2"
+                },
+                "title": "Same Program, Different Progress",
+                "type": "SectionHeader"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p2_scene"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "Here's another one that's been bugging me. Two clients started with me around the same time, on very similar six-week strength plans.\n",
+                "type": "Line"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p2_progress"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "Both showed up and both worked hard. But look at their progress.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "Client 1 goes up steadily, week after week. Client 2 goes up too, just much more slowly. Same plan. So what explains the difference?\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Let's talk it through as a PLC before anyone changes either program.\n",
+                "type": "Line"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p2_factors"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "I put the main factors up on the whiteboard: genetics, recovery, and adaptation.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "We should compare those before we decide next steps. Two clients on the same plan won't necessarily respond the same way.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Three people posted replies in the PLC thread about this. Compare all three explanations, use the evidence on the right, and pick the one with the strongest science.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "options": null,
+                "ref": "sp/sp_q2_choice_wrap",
+                "type": "EmbedCommand"
+              },
+              {
+                "expression": "@sp_q2_choice.value",
+                "type": "WaitCommand"
+              },
+              {
+                "metadata": {
+                },
+                "options": null,
+                "ref": "sp/sp_q2_feedback",
+                "type": "EmbedCommand"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p2_fibers"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "Here's the science underneath that. Your muscles are a mix of slow-twitch Type I fibers and fast-twitch Type II fibers, and the mix varies a lot from person to person. Much of it is inherited.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "Training changes how those fibers perform, but it doesn't wipe out the differences. So two people on one plan can get quite different results, especially in how fast they gain strength.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "The coaching takeaway: Client 2 isn't necessarily slacking. Check their recovery, keep the progression gradual, and set expectations around their own rate of progress, not Client 1's.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "That's a conversation I can have with them. Thanks.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                  "id": "sp_c3"
+                },
+                "title": "Fast and Slow Fibers",
+                "type": "SectionHeader"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p3_scene"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Something came up when Jamal and Marcus trained together yesterday. Same workout, very different experiences. Tell them what you noticed.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "Marcus, heavy squats feel natural to me, but long runs wear me out.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "I'm the opposite. I can hold a steady pace forever, but explosive lifts tire me out fast.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "Right. I can lift powerfully, but I fatigue quickly.\n",
+                "type": "Line"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p3_compare"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "And I can keep a steady pace much longer.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Good observation. I've put the two of you side by side. So here's the question for the PLC: which muscle-fiber reply best explains Jamal's training response?\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "options": null,
+                "ref": "sp/sp_q3_choice_wrap",
+                "type": "EmbedCommand"
+              },
+              {
+                "expression": "@sp_q3_choice.value",
+                "type": "WaitCommand"
+              },
+              {
+                "metadata": {
+                },
+                "options": null,
+                "ref": "sp/sp_q3_feedback",
+                "type": "EmbedCommand"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p3_fibers"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "Here's the fuller picture. Type II fibers are built for high force and speed: big motor units, quick to contract, and mostly dependent on fast, anaerobic energy. So they tire quickly.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "Type I fibers produce less force, but they're packed with mitochondria and capillaries, so they run on aerobic energy and resist fatigue. Jamal sounds Type II-dominant. I'm more Type I.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "And notice we're talking about the same workout. The same stimulus feels different, and produces different results, depending on what you bring to it. That's a big part of why Jamal's two clients progressed differently.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                  "id": "sp_c4"
+                },
+                "title": "Inside the Muscle",
+                "type": "SectionHeader"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p4_scene"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Jamal and Marcus did the same strength workout yesterday. Today they're comparing notes.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "My legs are still sore from yesterday's workout.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "Mine are a little sore too. Why might our recovery feel different?\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Let's bring that question to the PLC and think about what's happening inside the muscle.\n",
+                "type": "Line"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p4_question"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "I keep hearing about satellite cells. I'm still sore after yesterday's workout. What are they actually doing while I recover?\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "Do they stop muscle damage, help repair it, or replace the need for rest?\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Those are the three replies the PLC came up with. Which explanation fits best?\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "options": null,
+                "ref": "sp/sp_q4_choice_wrap",
+                "type": "EmbedCommand"
+              },
+              {
+                "expression": "@sp_q4_choice.value",
+                "type": "WaitCommand"
+              },
+              {
+                "metadata": {
+                },
+                "options": null,
+                "ref": "sp/sp_q4_feedback",
+                "type": "EmbedCommand"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p4_satellite"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Let me fill in the mechanism. I've sketched it on the right. Satellite cells are muscle stem cells that sit along the outside of each muscle fiber. Most of the time they're quiet.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "When a hard workout strains or damages fibers, they activate, multiply, and fuse with the damaged fibers. That helps repair them, and it donates new nuclei that support the fiber growing larger over time.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "So the soreness and the repair are happening at the same time. The cells don't stop the soreness. They're part of the rebuilding.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "Which also means rest isn't wasted time. That's when the rebuilding happens.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                  "id": "sp_c5"
+                },
+                "title": "Slow Lowering, Big Soreness",
+                "type": "SectionHeader"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p5_scene"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "One more case before we go back to Jamal's client. Marcus, this one's yours.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "We added slow lowering exercises this week. Taking a full four seconds on the way down in squats and lunges. Those felt harder than usual.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "And today you're much more sore when you move?\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "Yes. Especially in my legs.\n",
+                "type": "Line"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p5_eccentric"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "That's very common. Slow lowering means eccentric contractions, where the muscle produces force while it's lengthening. They cause more micro-damage than lifting the weight does, so they're well known for delayed-onset muscle soreness. It usually peaks a day or two later.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "So I'm still sore. Should I stop training, or keep pushing? I don't want to make the soreness worse.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "Let's compare the options before we change the plan.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Before we train again, let's decide together how to adjust the next workout. Which PLC reply gives the safest and most effective adjustment?\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "options": null,
+                "ref": "sp/sp_q5_choice_wrap",
+                "type": "EmbedCommand"
+              },
+              {
+                "expression": "@sp_q5_choice.value",
+                "type": "WaitCommand"
+              },
+              {
+                "metadata": {
+                },
+                "options": null,
+                "ref": "sp/sp_q5_feedback",
+                "type": "EmbedCommand"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p5_plan"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "One more thing worth knowing. After a first bout of eccentric work, the muscle adapts quickly, so the next similar session usually causes much less soreness. That's called the repeated bout effect.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "Which is exactly why easing back in works. A lighter session now protects me, and it sets me up to handle more later.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                  "id": "sp_c6"
+                },
+                "title": "Back to Jamal's Client",
+                "type": "SectionHeader"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p6_review"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Okay. Let's come back to where we started: Jamal's client, stuck at 135 for 8.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Since then we've talked about why people progress at different rates, how fiber types shape performance, what satellite cells do during recovery, and how to adjust training after a hard eccentric session. I've pulled it all together on the right, along with what you wrote at the start of the meeting.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "So what should I take back to my client? Give me your best recommendation now. Name the factors you'd check first, explain how each one could be slowing their progress, and tell me what you'd change.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "options": null,
+                "ref": "sp/sp_q6",
+                "type": "EmbedCommand"
+              },
+              {
+                "expression": "wordcount(@sp_q6_answer.value) >= 12",
+                "type": "WaitCommand"
+              },
+              {
+                "field": "value",
+                "ref": "sp_panel",
+                "scope": "ref",
+                "type": "SetField",
+                "value": "sp_p6_end"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Jamal",
+                "text": "That's helpful. Here's my plan. First, I'll ask about sleep, food, and stress, because recovery comes first. Then I'll start progressing the bench in small steps, either a little more weight or one more rep, and I'll track their soreness so I can back off if they're not recovering.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Marcus",
+                "text": "And set expectations. After the first couple of months, strength gains get slower for everyone. That's normal, not failure.\n",
+                "type": "Line"
+              },
+              {
+                "metadata": {
+                },
+                "speaker": "Tasha",
+                "text": "Good work today, everyone. That's what this group is for: evidence first, science second, then the plan. See you next week.",
+                "type": "Line"
+              }
+            ],
+            "header": {
+              "authors": "ESMS 3700 storyboard (Miro), adapted for lo-blocks",
+              "title": "The New Client's Strength Plateau"
+            },
+            "type": "Conversation"
+          },
+          "type": "parsed"
+        },
+        "lang": "en-Latn-US",
+        "parseDeps": [
+          "file:content://sp_dialogue.chatpeg#1792175387108.819"
+        ],
+        "rawParsed": {
+          ":@": {
+            "height": "calc(100vh - 270px)",
+            "id": "sp_chat",
+            "src": "sp_dialogue.chatpeg"
+          },
+          "Chat": [
+          ]
+        },
+        "source": "file:content://strength_plateau_sba.olx#1debe7e32afde1c6",
+        "tag": "Chat"
+      }
+    },
+    "sp/sp_clues": {
+      "*": {
+        "_sourceOffset": 3190,
+        "attributes": {
+          "id": "sp_clues"
+        },
+        "id": "sp/sp_clues",
+        "kids": "**Case clues**\n\n| Clue | What Jamal has seen |\n|---|---|\n| Progression | The same weight and reps (135 × 8) four weeks running |\n| Soreness | The client says they've been pretty sore after sessions lately |\n| Recovery | New job; sleep has been rough |\n| Training load | The same session, week after week |",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_compare": {
+      "*": {
+        "_sourceOffset": 6574,
+        "attributes": {
+          "id": "sp_compare"
+        },
+        "id": "sp/sp_compare",
+        "kids": "**Same workout, different responses**\n\n| | Jamal | Marcus |\n|---|---|---|\n| Feels natural | Heavy squats, powerful lifts | Long runs, a steady pace |\n| Wears him out | Long runs | Explosive lifts |\n| Pattern | Powerful, but fatigues quickly | Less explosive, but lasts much longer |",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_day_after": {
+      "*": {
+        "_sourceOffset": 8060,
+        "attributes": {
+          "id": "sp_day_after"
+        },
+        "id": "sp/sp_day_after",
+        "kids": "**The day after the same strength workout**\n\n| | How he feels |\n|---|---|\n| Jamal | Legs still sore |\n| Marcus | A little sore too |\n\n**Marcus's question:** what are satellite cells doing while he recovers? Do they **stop** muscle damage, **repair** it, or **replace** the need for rest?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_eccentric": {
+      "*": {
+        "_sourceOffset": 9744,
+        "attributes": {
+          "id": "sp_eccentric"
+        },
+        "id": "sp/sp_eccentric",
+        "kids": "**What changed for Marcus**\n\n- **New this week:** slow lowering, a full four seconds on the way down in squats and lunges.\n- **The next day:** much more sore than usual, especially in his legs.\n\n**Two kinds of muscle action**\n\n| | Concentric | Eccentric |\n|---|---|---|\n| What the muscle does | Shortens while producing force | Lengthens while producing force |\n| Example | Standing up out of a squat | Lowering slowly into a squat |\n| Micro-damage | Less | More |\n\n**Delayed-onset muscle soreness (DOMS)** comes on after new or unaccustomed exercise, especially eccentric work, and usually peaks about 24 to 72 hours later.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_factors": {
+      "*": {
+        "_sourceOffset": 4450,
+        "attributes": {
+          "id": "sp_factors"
+        },
+        "id": "sp/sp_factors",
+        "kids": "**Factors to consider** (Marcus's whiteboard)\n\n| Genetics | Recovery | Adaptation |\n|---|---|---|\n| Fiber type | Sleep | Different rates |\n| Individual differences | Stress | Neuromuscular changes |\n| Training response | Nutrition | Progressive overload |\n| | Recovery time | |",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_fb_pending": {
+      "*": {
+        "_sourceOffset": 18359,
+        "attributes": {
+          "id": "sp_fb_pending"
+        },
+        "id": "sp/sp_fb_pending",
+        "kids": "*Choose a reply above to see what the PLC thinks.*",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_fiber_table": {
+      "*": {
+        "_sourceOffset": 7067,
+        "attributes": {
+          "id": "sp_fiber_table"
+        },
+        "id": "sp/sp_fiber_table",
+        "kids": "**Muscle fiber types**\n\n| | Type I (slow-twitch) | Type II (fast-twitch) |\n|---|---|---|\n| Force and speed | Lower force, slower | Higher force, faster |\n| Motor units | Small | Large |\n| Main energy system | Aerobic (many mitochondria and capillaries) | Mostly anaerobic |\n| Fatigue | Fatigue resistant | Fatigue quickly |\n| Good for | Endurance, a steady pace | Power, heavy and explosive lifts |\n| Sounds like | Marcus | Jamal |",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_img1_lg": {
+      "*": {
+        "_sourceOffset": 900,
+        "attributes": {
+          "alt": "Jamal, Tasha, and Marcus sit around a table in the gym with a laptop and notebook, discussing a client whose progress has stalled. A desk card lists case clues: soreness, recovery, progression, training load.",
+          "height": "auto",
+          "id": "sp_img1_lg",
+          "src": "images/q1_header.jpg",
+          "width": "100%"
+        },
+        "id": "sp/sp_img1_lg",
+        "kids": [
+        ],
+        "lang": "*",
+        "parseDeps": [
+          "file:content://images/q1_header.jpg#unresolved"
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Image"
+      }
+    },
+    "sp/sp_img2_lg": {
+      "*": {
+        "_sourceOffset": 1203,
+        "attributes": {
+          "alt": "The three trainers at a table with two client progress charts and a whiteboard listing factors to consider: genetics, recovery, and adaptation.",
+          "height": "auto",
+          "id": "sp_img2_lg",
+          "src": "images/q2_header.jpg",
+          "width": "100%"
+        },
+        "id": "sp/sp_img2_lg",
+        "kids": [
+        ],
+        "lang": "*",
+        "parseDeps": [
+          "file:content://images/q2_header.jpg#unresolved"
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Image"
+      }
+    },
+    "sp/sp_img3_lg": {
+      "*": {
+        "_sourceOffset": 1441,
+        "attributes": {
+          "alt": "Jamal squats a heavy barbell, Marcus jogs on a treadmill, and Tasha watches with a clipboard.",
+          "height": "auto",
+          "id": "sp_img3_lg",
+          "src": "images/q3_header.jpg",
+          "width": "100%"
+        },
+        "id": "sp/sp_img3_lg",
+        "kids": [
+        ],
+        "lang": "*",
+        "parseDeps": [
+          "file:content://images/q3_header.jpg#unresolved"
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Image"
+      }
+    },
+    "sp/sp_img4_lg": {
+      "*": {
+        "_sourceOffset": 1629,
+        "attributes": {
+          "alt": "Jamal and Marcus sit on a bench with water bottles the day after a workout, comparing soreness, while Tasha stands beside them with a clipboard.",
+          "height": "auto",
+          "id": "sp_img4_lg",
+          "src": "images/q4_header.jpg",
+          "width": "100%"
+        },
+        "id": "sp/sp_img4_lg",
+        "kids": [
+        ],
+        "lang": "*",
+        "parseDeps": [
+          "file:content://images/q4_header.jpg#unresolved"
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Image"
+      }
+    },
+    "sp/sp_img5_lg": {
+      "*": {
+        "_sourceOffset": 1868,
+        "attributes": {
+          "alt": "Marcus stands rubbing his neck after slow lowering exercises, Jamal sits on a bench, and Tasha takes notes on a clipboard.",
+          "height": "auto",
+          "id": "sp_img5_lg",
+          "src": "images/q5_header.jpg",
+          "width": "100%"
+        },
+        "id": "sp/sp_img5_lg",
+        "kids": [
+        ],
+        "lang": "*",
+        "parseDeps": [
+          "file:content://images/q5_header.jpg#unresolved"
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Image"
+      }
+    },
+    "sp/sp_learned": {
+      "*": {
+        "_sourceOffset": 11591,
+        "attributes": {
+          "id": "sp_learned"
+        },
+        "id": "sp/sp_learned",
+        "kids": "**What the PLC worked out today**\n\n1. **Same plan, different results.** Genetics and fiber type make people respond to training at different rates.\n2. **Fiber types.** Type II fibers give power but fatigue quickly. Type I fibers resist fatigue.\n3. **Satellite cells.** They repair damaged fibers and support growth during recovery. They don't stop soreness or replace rest.\n4. **Eccentric work and soreness.** New slow lowering work causes delayed soreness. Lower the volume and progress gradually, rather than pushing harder or stopping completely.\n5. **Progression and recovery.** Without progressive overload there's no new stimulus, and without recovery there's no adaptation.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_log": {
+      "*": {
+        "_sourceOffset": 1601,
+        "attributes": {
+          "id": "sp_log"
+        },
+        "id": "sp/sp_log",
+        "kids": "**Jamal's client: workout log (bench press)**\n\n| Date | Exercise | Weight | Reps |\n|---|---|---|---|\n| 4/6 | Bench press | 135 lb | 8 |\n| 4/13 | Bench press | 135 lb | 8 |\n| 4/20 | Bench press | 135 lb | 8 |\n| 4/27 | Bench press | 135 lb | 8 |\n\n**No change in 4 weeks.**",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p1_clues": {
+      "*": {
+        "_sourceOffset": 3534,
+        "attributes": {
+          "id": "sp_p1_clues"
+        },
+        "id": "sp/sp_p1_clues",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p1_clues_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img1_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img1_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_log",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_log",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_clues",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_clues",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p1_clues_h": {
+      "*": {
+        "_sourceOffset": 3562,
+        "attributes": {
+          "id": "sp_p1_clues_h"
+        },
+        "id": "sp/sp_p1_clues_h",
+        "kids": "#### Case 1 · The plateau",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p1_log": {
+      "*": {
+        "_sourceOffset": 3041,
+        "attributes": {
+          "id": "sp_p1_log"
+        },
+        "id": "sp/sp_p1_log",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p1_log_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img1_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img1_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_log",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_log",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p1_log_h": {
+      "*": {
+        "_sourceOffset": 3067,
+        "attributes": {
+          "id": "sp_p1_log_h"
+        },
+        "id": "sp/sp_p1_log_h",
+        "kids": "#### Case 1 · The plateau",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p1_read": {
+      "*": {
+        "_sourceOffset": 4324,
+        "attributes": {
+          "id": "sp_p1_read"
+        },
+        "id": "sp/sp_p1_read",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p1_read_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img1_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img1_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_read",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_read",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p1_read_yours",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p1_read_ref",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p1_read_h": {
+      "*": {
+        "_sourceOffset": 4351,
+        "attributes": {
+          "id": "sp_p1_read_h"
+        },
+        "id": "sp/sp_p1_read_h",
+        "kids": "#### Case 1 · The plateau",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p1_read_ref": {
+      "*": {
+        "_sourceOffset": 4526,
+        "attributes": {
+          "format": "text",
+          "id": "sp_p1_read_ref",
+          "target": "sp_q1_answer"
+        },
+        "id": "sp/sp_p1_read_ref",
+        "kids": [
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Ref"
+      }
+    },
+    "sp/sp_p1_read_yours": {
+      "*": {
+        "_sourceOffset": 4463,
+        "attributes": {
+          "id": "sp_p1_read_yours"
+        },
+        "id": "sp/sp_p1_read_yours",
+        "kids": "**Your first read**",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p2_factors": {
+      "*": {
+        "_sourceOffset": 5138,
+        "attributes": {
+          "id": "sp_p2_factors"
+        },
+        "id": "sp/sp_p2_factors",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p2_factors_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img2_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img2_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_progress",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_progress",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_factors",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_factors",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p2_factors_h": {
+      "*": {
+        "_sourceOffset": 5168,
+        "attributes": {
+          "id": "sp_p2_factors_h"
+        },
+        "id": "sp/sp_p2_factors_h",
+        "kids": "#### Case 2 · Same program, different progress",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p2_fibers": {
+      "*": {
+        "_sourceOffset": 6039,
+        "attributes": {
+          "id": "sp_p2_fibers"
+        },
+        "id": "sp/sp_p2_fibers",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p2_fibers_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img2_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img2_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_progress",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_progress",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_why_differ",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_why_differ",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p2_fibers_h": {
+      "*": {
+        "_sourceOffset": 6068,
+        "attributes": {
+          "id": "sp_p2_fibers_h"
+        },
+        "id": "sp/sp_p2_fibers_h",
+        "kids": "#### Case 2 · Same program, different progress",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p2_progress": {
+      "*": {
+        "_sourceOffset": 4953,
+        "attributes": {
+          "id": "sp_p2_progress"
+        },
+        "id": "sp/sp_p2_progress",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p2_progress_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img2_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img2_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_progress",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_progress",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p2_progress_h": {
+      "*": {
+        "_sourceOffset": 4984,
+        "attributes": {
+          "id": "sp_p2_progress_h"
+        },
+        "id": "sp/sp_p2_progress_h",
+        "kids": "#### Case 2 · Same program, different progress",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p2_scene": {
+      "*": {
+        "_sourceOffset": 4800,
+        "attributes": {
+          "id": "sp_p2_scene"
+        },
+        "id": "sp/sp_p2_scene",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p2_scene_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img2_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img2_lg",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p2_scene_h": {
+      "*": {
+        "_sourceOffset": 4828,
+        "attributes": {
+          "id": "sp_p2_scene_h"
+        },
+        "id": "sp/sp_p2_scene_h",
+        "kids": "#### Case 2 · Same program, different progress",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p3_compare": {
+      "*": {
+        "_sourceOffset": 6897,
+        "attributes": {
+          "id": "sp_p3_compare"
+        },
+        "id": "sp/sp_p3_compare",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p3_compare_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img3_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img3_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_compare",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_compare",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p3_compare_h": {
+      "*": {
+        "_sourceOffset": 6927,
+        "attributes": {
+          "id": "sp_p3_compare_h"
+        },
+        "id": "sp/sp_p3_compare_h",
+        "kids": "#### Case 3 · Fast and slow fibers",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p3_fibers": {
+      "*": {
+        "_sourceOffset": 7543,
+        "attributes": {
+          "id": "sp_p3_fibers"
+        },
+        "id": "sp/sp_p3_fibers",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p3_fibers_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img3_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img3_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_compare",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_compare",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_fiber_table",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_fiber_table",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p3_fibers_h": {
+      "*": {
+        "_sourceOffset": 7572,
+        "attributes": {
+          "id": "sp_p3_fibers_h"
+        },
+        "id": "sp/sp_p3_fibers_h",
+        "kids": "#### Case 3 · Fast and slow fibers",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p3_scene": {
+      "*": {
+        "_sourceOffset": 6433,
+        "attributes": {
+          "id": "sp_p3_scene"
+        },
+        "id": "sp/sp_p3_scene",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p3_scene_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img3_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img3_lg",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p3_scene_h": {
+      "*": {
+        "_sourceOffset": 6461,
+        "attributes": {
+          "id": "sp_p3_scene_h"
+        },
+        "id": "sp/sp_p3_scene_h",
+        "kids": "#### Case 3 · Fast and slow fibers",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p4_question": {
+      "*": {
+        "_sourceOffset": 8390,
+        "attributes": {
+          "id": "sp_p4_question"
+        },
+        "id": "sp/sp_p4_question",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p4_question_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img4_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img4_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_day_after",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_day_after",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p4_question_h": {
+      "*": {
+        "_sourceOffset": 8421,
+        "attributes": {
+          "id": "sp_p4_question_h"
+        },
+        "id": "sp/sp_p4_question_h",
+        "kids": "#### Case 4 · Inside the muscle",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p4_satellite": {
+      "*": {
+        "_sourceOffset": 9231,
+        "attributes": {
+          "id": "sp_p4_satellite"
+        },
+        "id": "sp/sp_p4_satellite",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p4_satellite_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img4_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img4_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_satellite",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_satellite",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p4_satellite_h": {
+      "*": {
+        "_sourceOffset": 9263,
+        "attributes": {
+          "id": "sp_p4_satellite_h"
+        },
+        "id": "sp/sp_p4_satellite_h",
+        "kids": "#### Case 4 · Inside the muscle",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p4_scene": {
+      "*": {
+        "_sourceOffset": 7922,
+        "attributes": {
+          "id": "sp_p4_scene"
+        },
+        "id": "sp/sp_p4_scene",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p4_scene_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img4_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img4_lg",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p4_scene_h": {
+      "*": {
+        "_sourceOffset": 7950,
+        "attributes": {
+          "id": "sp_p4_scene_h"
+        },
+        "id": "sp/sp_p4_scene_h",
+        "kids": "#### Case 4 · Inside the muscle",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p5_eccentric": {
+      "*": {
+        "_sourceOffset": 10411,
+        "attributes": {
+          "id": "sp_p5_eccentric"
+        },
+        "id": "sp/sp_p5_eccentric",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p5_eccentric_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img5_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img5_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_eccentric",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_eccentric",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p5_eccentric_h": {
+      "*": {
+        "_sourceOffset": 10443,
+        "attributes": {
+          "id": "sp_p5_eccentric_h"
+        },
+        "id": "sp/sp_p5_eccentric_h",
+        "kids": "#### Case 5 · Slow lowering, big soreness",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p5_plan": {
+      "*": {
+        "_sourceOffset": 11242,
+        "attributes": {
+          "id": "sp_p5_plan"
+        },
+        "id": "sp/sp_p5_plan",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p5_plan_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img5_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img5_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_adjust",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_adjust",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p5_plan_h": {
+      "*": {
+        "_sourceOffset": 11269,
+        "attributes": {
+          "id": "sp_p5_plan_h"
+        },
+        "id": "sp/sp_p5_plan_h",
+        "kids": "#### Case 5 · Slow lowering, big soreness",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p5_scene": {
+      "*": {
+        "_sourceOffset": 9596,
+        "attributes": {
+          "id": "sp_p5_scene"
+        },
+        "id": "sp/sp_p5_scene",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p5_scene_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img5_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img5_lg",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p5_scene_h": {
+      "*": {
+        "_sourceOffset": 9624,
+        "attributes": {
+          "id": "sp_p5_scene_h"
+        },
+        "id": "sp/sp_p5_scene_h",
+        "kids": "#### Case 5 · Slow lowering, big soreness",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p6_end": {
+      "*": {
+        "_sourceOffset": 12652,
+        "attributes": {
+          "id": "sp_p6_end"
+        },
+        "id": "sp/sp_p6_end",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p6_end_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img1_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img1_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p6_end_first",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p6_end_first_ref",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p6_end_final",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p6_end_final_ref",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p6_end_plan",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p6_end_final": {
+      "*": {
+        "_sourceOffset": 12900,
+        "attributes": {
+          "id": "sp_p6_end_final"
+        },
+        "id": "sp/sp_p6_end_final",
+        "kids": "**Your recommendation for Jamal**",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p6_end_final_ref": {
+      "*": {
+        "_sourceOffset": 12976,
+        "attributes": {
+          "format": "text",
+          "id": "sp_p6_end_final_ref",
+          "target": "sp_q6_answer"
+        },
+        "id": "sp/sp_p6_end_final_ref",
+        "kids": [
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Ref"
+      }
+    },
+    "sp/sp_p6_end_first": {
+      "*": {
+        "_sourceOffset": 12769,
+        "attributes": {
+          "id": "sp_p6_end_first"
+        },
+        "id": "sp/sp_p6_end_first",
+        "kids": "**Your first read**",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p6_end_first_ref": {
+      "*": {
+        "_sourceOffset": 12831,
+        "attributes": {
+          "format": "text",
+          "id": "sp_p6_end_first_ref",
+          "target": "sp_q1_answer"
+        },
+        "id": "sp/sp_p6_end_first_ref",
+        "kids": [
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Ref"
+      }
+    },
+    "sp/sp_p6_end_h": {
+      "*": {
+        "_sourceOffset": 12678,
+        "attributes": {
+          "id": "sp_p6_end_h"
+        },
+        "id": "sp/sp_p6_end_h",
+        "kids": "#### Back to Jamal's client",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p6_end_plan": {
+      "*": {
+        "_sourceOffset": 13045,
+        "attributes": {
+          "id": "sp_p6_end_plan"
+        },
+        "id": "sp/sp_p6_end_plan",
+        "kids": "**Jamal's plan**\n\n1. Ask about sleep, food, and stress first: recovery comes first.\n2. Progress the bench in small steps: a little more weight or one more rep.\n3. Track soreness, and back off if the client isn't recovering.\n4. Set expectations: after the first couple of months, strength gains slow down for everyone.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p6_review": {
+      "*": {
+        "_sourceOffset": 12312,
+        "attributes": {
+          "id": "sp_p6_review"
+        },
+        "id": "sp/sp_p6_review",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p6_review_h",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img1_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img1_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_log",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_log",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_learned",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_learned",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p6_review_yours",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p6_review_ref",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p6_review_h": {
+      "*": {
+        "_sourceOffset": 12341,
+        "attributes": {
+          "id": "sp_p6_review_h"
+        },
+        "id": "sp/sp_p6_review_h",
+        "kids": "#### Back to Jamal's client",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p6_review_ref": {
+      "*": {
+        "_sourceOffset": 12573,
+        "attributes": {
+          "format": "text",
+          "id": "sp_p6_review_ref",
+          "target": "sp_q1_answer"
+        },
+        "id": "sp/sp_p6_review_ref",
+        "kids": [
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Ref"
+      }
+    },
+    "sp/sp_p6_review_yours": {
+      "*": {
+        "_sourceOffset": 12481,
+        "attributes": {
+          "id": "sp_p6_review_yours"
+        },
+        "id": "sp/sp_p6_review_yours",
+        "kids": "**What you wrote at the start of the meeting**",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_p_welcome": {
+      "*": {
+        "_sourceOffset": 2261,
+        "attributes": {
+          "id": "sp_p_welcome"
+        },
+        "id": "sp/sp_p_welcome",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_p_welcome_md",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img1_lg",
+            "overrides": {
+            },
+            "stateKey": "sp/sp_img1_lg",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_p_welcome_md": {
+      "*": {
+        "_sourceOffset": 2290,
+        "attributes": {
+          "id": "sp_p_welcome_md"
+        },
+        "id": "sp/sp_p_welcome_md",
+        "kids": "### The New Client's Strength Plateau\n\n**ESMS 3700 · Introduction to Exercise Physiology · Muscles Unit**\n\nYou've just joined the trainers' **PLC** (professional learning community) at your gym. Once a week, trainers bring real client cases and work through them together before anyone changes a program. You're sitting in with **Tasha** (Lead Trainer), **Jamal** (Personal Trainer), and **Marcus** (Strength Coach).\n\n**How it works.** Click **Continue** in the conversation on the left to hear the next line. When the group asks you something, answer right in the conversation. This panel shows whatever the group is looking at, and it updates as the meeting goes on.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_panel": {
+      "en-Latn-US": {
+        "_sourceOffset": 1488,
+        "attributes": {
+          "id": "sp_panel",
+          "initial": "sp_p_welcome"
+        },
+        "id": "sp/sp_panel",
+        "kids": [
+        ],
+        "lang": "en-Latn-US",
+        "parseDeps": [
+        ],
+        "source": "file:content://strength_plateau_sba.olx#1debe7e32afde1c6",
+        "tag": "UseHistory"
+      }
+    },
+    "sp/sp_panels": {
+      "*": {
+        "_sourceOffset": 651,
+        "attributes": {
+          "id": "sp_panels"
+        },
+        "id": "sp/sp_panels",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_img1_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img2_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img3_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img4_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_img5_lg",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p_welcome",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p1_log",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_clues",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p1_clues",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_read",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p1_read",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p2_scene",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p2_progress",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p2_factors",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_why_differ",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p2_fibers",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p3_scene",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_compare",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p3_compare",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_fiber_table",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p3_fibers",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p4_scene",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_day_after",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p4_question",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_satellite",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p4_satellite",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p5_scene",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_eccentric",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p5_eccentric",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_adjust",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p5_plan",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_learned",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p6_review",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_p6_end",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_progress": {
+      "*": {
+        "_sourceOffset": 4001,
+        "attributes": {
+          "id": "sp_progress"
+        },
+        "id": "sp/sp_progress",
+        "kids": "**Two clients, similar 6-week strength plans**\n\n| Week | 1 | 2 | 3 | 4 | 5 | 6 |\n|---|---|---|---|---|---|---|\n| Client 1: squat (lb) | 135 | 145 | 155 | 165 | 175 | 185 |\n| Client 2: squat (lb) | 135 | 140 | 145 | 150 | 155 | 160 |\n\n*Both clients improve every week, but at very different rates.*",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q1": {
+      "*": {
+        "_sourceOffset": 1908,
+        "attributes": {
+          "id": "sp_q1"
+        },
+        "id": "sp/sp_q1",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q1_prompt",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q1_answer",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q1_count",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q1_more",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q1_answer": {
+      "*": {
+        "_sourceOffset": 2348,
+        "attributes": {
+          "id": "sp_q1_answer",
+          "placeholder": "One factor I'd check first is... It could slow strength gains because... A second factor is... My recommendation for Jamal is...",
+          "rows": "7"
+        },
+        "id": "sp/sp_q1_answer",
+        "kids": "",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TextArea"
+      }
+    },
+    "sp/sp_q1_check": {
+      "*": {
+        "_sourceOffset": 2976,
+        "attributes": {
+          "id": "sp_q1_check"
+        },
+        "id": "sp/sp_q1_check",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q1_check_prompt",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q1_selfcheck",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q1_check_prompt": {
+      "*": {
+        "_sourceOffset": 3004,
+        "attributes": {
+          "id": "sp_q1_check_prompt"
+        },
+        "id": "sp/sp_q1_check_prompt",
+        "kids": "**Check your answer.** Tick each idea your answer already included. (This isn't graded. It's for you.)",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q1_count": {
+      "*": {
+        "_sourceOffset": 2541,
+        "attributes": {
+          "id": "sp_q1_count",
+          "when": {
+            "ast": {
+              "left": {
+                "arguments": [
+                  {
+                    "fields": [
+                      "value"
+                    ],
+                    "id": "sp_q1_answer",
+                    "sigil": "@",
+                    "type": "SigilRef"
+                  }
+                ],
+                "callee": {
+                  "name": "wordcount",
+                  "type": "Identifier"
+                },
+                "type": "Call"
+              },
+              "op": "<",
+              "right": {
+                "type": "Number",
+                "value": 12
+              },
+              "type": "BinaryOp"
+            },
+            "expr": "wordcount(@sp_q1_answer.value) < 12"
+          }
+        },
+        "id": "sp/sp_q1_count",
+        "kids": "*{{wordcount(@sp_q1_answer.value)}} of 12 words. Write at least 12 to continue.*",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q1_more": {
+      "*": {
+        "_sourceOffset": 2706,
+        "attributes": {
+          "id": "sp_q1_more",
+          "when": {
+            "ast": {
+              "left": {
+                "left": {
+                  "arguments": [
+                    {
+                      "fields": [
+                        "value"
+                      ],
+                      "id": "sp_q1_answer",
+                      "sigil": "@",
+                      "type": "SigilRef"
+                    }
+                  ],
+                  "callee": {
+                    "name": "wordcount",
+                    "type": "Identifier"
+                  },
+                  "type": "Call"
+                },
+                "op": ">=",
+                "right": {
+                  "type": "Number",
+                  "value": 12
+                },
+                "type": "BinaryOp"
+              },
+              "op": "&&",
+              "right": {
+                "left": {
+                  "arguments": [
+                    {
+                      "fields": [
+                        "value"
+                      ],
+                      "id": "sp_q1_answer",
+                      "sigil": "@",
+                      "type": "SigilRef"
+                    }
+                  ],
+                  "callee": {
+                    "name": "wordcount",
+                    "type": "Identifier"
+                  },
+                  "type": "Call"
+                },
+                "op": "<",
+                "right": {
+                  "type": "Number",
+                  "value": 60
+                },
+                "type": "BinaryOp"
+              },
+              "type": "BinaryOp"
+            },
+            "expr": "wordcount(@sp_q1_answer.value) >= 12 && wordcount(@sp_q1_answer.value) < 60"
+          }
+        },
+        "id": "sp/sp_q1_more",
+        "kids": "*{{wordcount(@sp_q1_answer.value)}} words. That's enough to continue, but the strongest answers usually run closer to 60.*",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q1_prompt": {
+      "*": {
+        "_sourceOffset": 1930,
+        "attributes": {
+          "id": "sp_q1_prompt"
+        },
+        "id": "sp/sp_q1_prompt",
+        "kids": "**Your turn: open-ended question**\n\nAs a PLC member, explain **at least two factors** the team should investigate first. For each one, describe **how it could slow strength gains**. Then say **what recommendation** the PLC should give Jamal to take back to the client.\n\n*Ideas you might draw on: muscle contraction, fiber types, soreness, recovery, satellite cells, genetics.*",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q1_selfcheck": {
+      "*": {
+        "_sourceOffset": 3152,
+        "attributes": {
+          "id": "sp_q1_selfcheck",
+          "reverseCoded": false
+        },
+        "id": "sp/sp_q1_selfcheck",
+        "kids": [
+          {
+            "definitionKey": "sp/_ae41a5446328738f9adda391e54fd32960caee52",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/_da98f4129ac4eb8d4af076ace094e7c3ecb88804",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/_64fb258b0db4329d764521de5b216dced6638dc6",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/_75084ffa01b5e769bf6baa23100872686e0436cc",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/_21089cf9745463c3c3be821c7fa5d8c1fb6a0ce6",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/_a64df5b9a9192e48c2b123304656df916ea0f118",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "CheckboxInput"
+      }
+    },
+    "sp/sp_q2_choice": {
+      "*": {
+        "_sourceOffset": 4959,
+        "attributes": {
+          "id": "sp_q2_choice",
+          "reverseCoded": false
+        },
+        "id": "sp/sp_q2_choice",
+        "kids": [
+          {
+            "definitionKey": "sp/_58395c01f24dc22d988aecb625399e810ce87f42",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/_9162956ecba474d62a193fcfd71b4f193db60c21",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/_18424431bf129e6419367e54f3de4419ae40e6de",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "ChoiceInput"
+      }
+    },
+    "sp/sp_q2_choice_wrap": {
+      "*": {
+        "_sourceOffset": 4768,
+        "attributes": {
+          "id": "sp_q2_choice_wrap"
+        },
+        "id": "sp/sp_q2_choice_wrap",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q2_stem",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_choice",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q2_fb_a": {
+      "*": {
+        "_sourceOffset": 5401,
+        "attributes": {
+          "id": "sp_q2_fb_a"
+        },
+        "id": "sp/sp_q2_fb_a",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q2_fb_a_card",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_fb_a_1",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_fb_a_2",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_fb_a_3",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q2_fb_a_1": {
+      "*": {
+        "_sourceOffset": 5724,
+        "attributes": {
+          "id": "sp_q2_fb_a_1",
+          "side": "primary",
+          "who": "Jamal"
+        },
+        "id": "sp/sp_q2_fb_a_1",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q2_fb_a_1m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q2_fb_a_1m": {
+      "*": {
+        "_sourceOffset": 5766,
+        "attributes": {
+          "id": "sp_q2_fb_a_1m"
+        },
+        "id": "sp/sp_q2_fb_a_1m",
+        "kids": "Both clients worked hard. Is effort the whole reason?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q2_fb_a_2": {
+      "*": {
+        "_sourceOffset": 5873,
+        "attributes": {
+          "id": "sp_q2_fb_a_2",
+          "side": "primary",
+          "who": "Tasha"
+        },
+        "id": "sp/sp_q2_fb_a_2",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q2_fb_a_2m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q2_fb_a_2m": {
+      "*": {
+        "_sourceOffset": 5915,
+        "attributes": {
+          "id": "sp_q2_fb_a_2m"
+        },
+        "id": "sp/sp_q2_fb_a_2m",
+        "kids": "Effort matters, but it's only one part of the explanation.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q2_fb_a_3": {
+      "*": {
+        "_sourceOffset": 6027,
+        "attributes": {
+          "id": "sp_q2_fb_a_3",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q2_fb_a_3",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q2_fb_a_3m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q2_fb_a_3m": {
+      "*": {
+        "_sourceOffset": 6070,
+        "attributes": {
+          "id": "sp_q2_fb_a_3m"
+        },
+        "id": "sp/sp_q2_fb_a_3m",
+        "kids": "Genetics, recovery, and adaptation can affect progress too.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q2_fb_a_card": {
+      "*": {
+        "_sourceOffset": 5428,
+        "attributes": {
+          "id": "sp_q2_fb_a_card"
+        },
+        "id": "sp/sp_q2_fb_a_card",
+        "kids": "**◐ Partially correct: Choice A**\n\n*\"Training effort determines all strength and endurance changes.\"*\n\nEffort supports improvement, but the word **all** makes the reply too broad. Both clients worked hard, and they still progressed at different rates.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q2_fb_b": {
+      "*": {
+        "_sourceOffset": 6196,
+        "attributes": {
+          "id": "sp_q2_fb_b"
+        },
+        "id": "sp/sp_q2_fb_b",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q2_fb_b_card",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_fb_b_1",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_fb_b_2",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_fb_b_3",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q2_fb_b_1": {
+      "*": {
+        "_sourceOffset": 6458,
+        "attributes": {
+          "id": "sp_q2_fb_b_1",
+          "side": "primary",
+          "who": "Jamal"
+        },
+        "id": "sp/sp_q2_fb_b_1",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q2_fb_b_1m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q2_fb_b_1m": {
+      "*": {
+        "_sourceOffset": 6500,
+        "attributes": {
+          "id": "sp_q2_fb_b_1m"
+        },
+        "id": "sp/sp_q2_fb_b_1m",
+        "kids": "So the same program can affect two clients differently?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q2_fb_b_2": {
+      "*": {
+        "_sourceOffset": 6609,
+        "attributes": {
+          "id": "sp_q2_fb_b_2",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q2_fb_b_2",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q2_fb_b_2m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q2_fb_b_2m": {
+      "*": {
+        "_sourceOffset": 6652,
+        "attributes": {
+          "id": "sp_q2_fb_b_2m"
+        },
+        "id": "sp/sp_q2_fb_b_2m",
+        "kids": "Their charts show different rates of progress.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q2_fb_b_3": {
+      "*": {
+        "_sourceOffset": 6752,
+        "attributes": {
+          "id": "sp_q2_fb_b_3",
+          "side": "primary",
+          "who": "Tasha"
+        },
+        "id": "sp/sp_q2_fb_b_3",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q2_fb_b_3m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q2_fb_b_3m": {
+      "*": {
+        "_sourceOffset": 6794,
+        "attributes": {
+          "id": "sp_q2_fb_b_3m"
+        },
+        "id": "sp/sp_q2_fb_b_3m",
+        "kids": "Exactly. Genetics and fiber type can influence training response.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q2_fb_b_card": {
+      "*": {
+        "_sourceOffset": 6223,
+        "attributes": {
+          "id": "sp_q2_fb_b_card"
+        },
+        "id": "sp/sp_q2_fb_b_card",
+        "kids": "**✓ Best reply: Choice B**\n\n*\"Genetics influence fiber type and training response.\"*\n\nThis is the best reply because it explains why similar programs can lead to different rates of progress.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q2_fb_c": {
+      "*": {
+        "_sourceOffset": 6926,
+        "attributes": {
+          "id": "sp_q2_fb_c"
+        },
+        "id": "sp/sp_q2_fb_c",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q2_fb_c_card",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_fb_c_1",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_fb_c_2",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q2_fb_c_3",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q2_fb_c_1": {
+      "*": {
+        "_sourceOffset": 7178,
+        "attributes": {
+          "id": "sp_q2_fb_c_1",
+          "side": "primary",
+          "who": "Jamal"
+        },
+        "id": "sp/sp_q2_fb_c_1",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q2_fb_c_1m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q2_fb_c_1m": {
+      "*": {
+        "_sourceOffset": 7220,
+        "attributes": {
+          "id": "sp_q2_fb_c_1m"
+        },
+        "id": "sp/sp_q2_fb_c_1m",
+        "kids": "One client felt sore too. Does that mean faster gains?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q2_fb_c_2": {
+      "*": {
+        "_sourceOffset": 7328,
+        "attributes": {
+          "id": "sp_q2_fb_c_2",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q2_fb_c_2",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q2_fb_c_2m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q2_fb_c_2m": {
+      "*": {
+        "_sourceOffset": 7371,
+        "attributes": {
+          "id": "sp_q2_fb_c_2m"
+        },
+        "id": "sp/sp_q2_fb_c_2m",
+        "kids": "Soreness can happen after training, but progress still varies.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q2_fb_c_3": {
+      "*": {
+        "_sourceOffset": 7487,
+        "attributes": {
+          "id": "sp_q2_fb_c_3",
+          "side": "primary",
+          "who": "Tasha"
+        },
+        "id": "sp/sp_q2_fb_c_3",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q2_fb_c_3m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q2_fb_c_3m": {
+      "*": {
+        "_sourceOffset": 7529,
+        "attributes": {
+          "id": "sp_q2_fb_c_3m"
+        },
+        "id": "sp/sp_q2_fb_c_3m",
+        "kids": "Right. Soreness alone doesn't predict future gains.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q2_fb_c_card": {
+      "*": {
+        "_sourceOffset": 6953,
+        "attributes": {
+          "id": "sp_q2_fb_c_card"
+        },
+        "id": "sp/sp_q2_fb_c_card",
+        "kids": "**✗ Weakest reply: Choice C**\n\n*\"Soreness predicts future strength and endurance gains.\"*\n\nSoreness may happen after training, but it doesn't show who will adapt or improve faster.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q2_feedback": {
+      "*": {
+        "_sourceOffset": 5317,
+        "attributes": {
+          "id": "sp_q2_feedback",
+          "target": "sp_fb_pending",
+          "targetRef": "sp_q2_choice"
+        },
+        "id": "sp/sp_q2_feedback",
+        "kids": [
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "UseDynamic"
+      }
+    },
+    "sp/sp_q2_stem": {
+      "*": {
+        "_sourceOffset": 4802,
+        "attributes": {
+          "id": "sp_q2_stem"
+        },
+        "id": "sp/sp_q2_stem",
+        "kids": "**Which PLC reply best explains why two clients can follow similar strength programs but progress at different rates?**",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q3_choice": {
+      "*": {
+        "_sourceOffset": 8031,
+        "attributes": {
+          "id": "sp_q3_choice",
+          "reverseCoded": false
+        },
+        "id": "sp/sp_q3_choice",
+        "kids": [
+          {
+            "definitionKey": "sp/_90604bc5fda20fed1f072934286c5af0a3fb2e25",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/_7b349d730f337e1ee6beedc149b5deea5d47a43a",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/_cc066e7dbab91bc1eb517e7fd2ee806ab28928b6",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "ChoiceInput"
+      }
+    },
+    "sp/sp_q3_choice_wrap": {
+      "*": {
+        "_sourceOffset": 7836,
+        "attributes": {
+          "id": "sp_q3_choice_wrap"
+        },
+        "id": "sp/sp_q3_choice_wrap",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q3_stem",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_choice",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q3_fb_a": {
+      "*": {
+        "_sourceOffset": 8507,
+        "attributes": {
+          "id": "sp_q3_fb_a"
+        },
+        "id": "sp/sp_q3_fb_a",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q3_fb_a_card",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_fb_a_1",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_fb_a_2",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_fb_a_3",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q3_fb_a_1": {
+      "*": {
+        "_sourceOffset": 8761,
+        "attributes": {
+          "id": "sp_q3_fb_a_1",
+          "side": "primary",
+          "who": "Jamal"
+        },
+        "id": "sp/sp_q3_fb_a_1",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q3_fb_a_1m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q3_fb_a_1m": {
+      "*": {
+        "_sourceOffset": 8803,
+        "attributes": {
+          "id": "sp_q3_fb_a_1m"
+        },
+        "id": "sp/sp_q3_fb_a_1m",
+        "kids": "That sounds more like Marcus. I tire sooner during powerful work.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q3_fb_a_2": {
+      "*": {
+        "_sourceOffset": 8922,
+        "attributes": {
+          "id": "sp_q3_fb_a_2",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q3_fb_a_2",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q3_fb_a_2m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q3_fb_a_2m": {
+      "*": {
+        "_sourceOffset": 8965,
+        "attributes": {
+          "id": "sp_q3_fb_a_2m"
+        },
+        "id": "sp/sp_q3_fb_a_2m",
+        "kids": "Right. I'm the one who can keep a steady pace longer.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q3_fb_a_3": {
+      "*": {
+        "_sourceOffset": 9072,
+        "attributes": {
+          "id": "sp_q3_fb_a_3",
+          "side": "primary",
+          "who": "Tasha"
+        },
+        "id": "sp/sp_q3_fb_a_3",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q3_fb_a_3m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q3_fb_a_3m": {
+      "*": {
+        "_sourceOffset": 9114,
+        "attributes": {
+          "id": "sp_q3_fb_a_3m"
+        },
+        "id": "sp/sp_q3_fb_a_3m",
+        "kids": "Exactly. Choice A is accurate, but it fits Marcus better than Jamal.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q3_fb_a_card": {
+      "*": {
+        "_sourceOffset": 8534,
+        "attributes": {
+          "id": "sp_q3_fb_a_card"
+        },
+        "id": "sp/sp_q3_fb_a_card",
+        "kids": "**◐ Partially correct: Choice A**\n\n*\"Slow-twitch fibers support steady endurance work with greater fatigue resistance.\"*\n\nAccurate science, but it describes Marcus better than Jamal.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q3_fb_b": {
+      "*": {
+        "_sourceOffset": 9249,
+        "attributes": {
+          "id": "sp_q3_fb_b"
+        },
+        "id": "sp/sp_q3_fb_b",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q3_fb_b_card",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_fb_b_1",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_fb_b_2",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_fb_b_3",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q3_fb_b_1": {
+      "*": {
+        "_sourceOffset": 9493,
+        "attributes": {
+          "id": "sp_q3_fb_b_1",
+          "side": "primary",
+          "who": "Jamal"
+        },
+        "id": "sp/sp_q3_fb_b_1",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q3_fb_b_1m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q3_fb_b_1m": {
+      "*": {
+        "_sourceOffset": 9535,
+        "attributes": {
+          "id": "sp_q3_fb_b_1m"
+        },
+        "id": "sp/sp_q3_fb_b_1m",
+        "kids": "Powerful effort fits me, but I fatigue quickly.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q3_fb_b_2": {
+      "*": {
+        "_sourceOffset": 9636,
+        "attributes": {
+          "id": "sp_q3_fb_b_2",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q3_fb_b_2",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q3_fb_b_2m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q3_fb_b_2m": {
+      "*": {
+        "_sourceOffset": 9679,
+        "attributes": {
+          "id": "sp_q3_fb_b_2m"
+        },
+        "id": "sp/sp_q3_fb_b_2m",
+        "kids": "That matches what we see during training.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q3_fb_b_3": {
+      "*": {
+        "_sourceOffset": 9774,
+        "attributes": {
+          "id": "sp_q3_fb_b_3",
+          "side": "primary",
+          "who": "Tasha"
+        },
+        "id": "sp/sp_q3_fb_b_3",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q3_fb_b_3m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q3_fb_b_3m": {
+      "*": {
+        "_sourceOffset": 9816,
+        "attributes": {
+          "id": "sp_q3_fb_b_3m"
+        },
+        "id": "sp/sp_q3_fb_b_3m",
+        "kids": "Exactly. Choice B best explains Jamal's response.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q3_fb_b_card": {
+      "*": {
+        "_sourceOffset": 9276,
+        "attributes": {
+          "id": "sp_q3_fb_b_card"
+        },
+        "id": "sp/sp_q3_fb_b_card",
+        "kids": "**✓ Best reply: Choice B**\n\n*\"Fast-twitch fibers support powerful work with quicker fatigue.\"*\n\nThis is the best reply because it directly matches Jamal's training pattern.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q3_fb_c": {
+      "*": {
+        "_sourceOffset": 9932,
+        "attributes": {
+          "id": "sp_q3_fb_c"
+        },
+        "id": "sp/sp_q3_fb_c",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q3_fb_c_card",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_fb_c_1",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_fb_c_2",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q3_fb_c_3",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q3_fb_c_1": {
+      "*": {
+        "_sourceOffset": 10179,
+        "attributes": {
+          "id": "sp_q3_fb_c_1",
+          "side": "primary",
+          "who": "Jamal"
+        },
+        "id": "sp/sp_q3_fb_c_1",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q3_fb_c_1m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q3_fb_c_1m": {
+      "*": {
+        "_sourceOffset": 10221,
+        "attributes": {
+          "id": "sp_q3_fb_c_1m"
+        },
+        "id": "sp/sp_q3_fb_c_1m",
+        "kids": "Do satellite cells explain why I tire sooner?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q3_fb_c_2": {
+      "*": {
+        "_sourceOffset": 10320,
+        "attributes": {
+          "id": "sp_q3_fb_c_2",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q3_fb_c_2",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q3_fb_c_2m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q3_fb_c_2m": {
+      "*": {
+        "_sourceOffset": 10363,
+        "attributes": {
+          "id": "sp_q3_fb_c_2m"
+        },
+        "id": "sp/sp_q3_fb_c_2m",
+        "kids": "Not really. They're mostly connected to growth and repair.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q3_fb_c_3": {
+      "*": {
+        "_sourceOffset": 10475,
+        "attributes": {
+          "id": "sp_q3_fb_c_3",
+          "side": "primary",
+          "who": "Tasha"
+        },
+        "id": "sp/sp_q3_fb_c_3",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q3_fb_c_3m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q3_fb_c_3m": {
+      "*": {
+        "_sourceOffset": 10517,
+        "attributes": {
+          "id": "sp_q3_fb_c_3m"
+        },
+        "id": "sp/sp_q3_fb_c_3m",
+        "kids": "Correct. Choice C doesn't answer the question.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q3_fb_c_card": {
+      "*": {
+        "_sourceOffset": 9959,
+        "attributes": {
+          "id": "sp_q3_fb_c_card"
+        },
+        "id": "sp/sp_q3_fb_c_card",
+        "kids": "**✗ Weakest reply: Choice C**\n\n*\"Satellite cells support endurance work with slower fatigue.\"*\n\nSatellite cells support muscle growth and repair, not this performance pattern.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q3_feedback": {
+      "*": {
+        "_sourceOffset": 8423,
+        "attributes": {
+          "id": "sp_q3_feedback",
+          "target": "sp_fb_pending",
+          "targetRef": "sp_q3_choice"
+        },
+        "id": "sp/sp_q3_feedback",
+        "kids": [
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "UseDynamic"
+      }
+    },
+    "sp/sp_q3_stem": {
+      "*": {
+        "_sourceOffset": 7870,
+        "attributes": {
+          "id": "sp_q3_stem"
+        },
+        "id": "sp/sp_q3_stem",
+        "kids": "**Which muscle-fiber reply best describes Jamal's training response?** *(He can lift powerfully, but he fatigues quickly.)*",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q4_choice": {
+      "*": {
+        "_sourceOffset": 10998,
+        "attributes": {
+          "id": "sp_q4_choice",
+          "reverseCoded": false
+        },
+        "id": "sp/sp_q4_choice",
+        "kids": [
+          {
+            "definitionKey": "sp/_4c170c12d8f34768ad59f1e2338b63fe37257631",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/_dddf428709c4c691ef415e0f847308f3c1591881",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/_8a1826854b5b1341daddee7ea675146492b45e97",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "ChoiceInput"
+      }
+    },
+    "sp/sp_q4_choice_wrap": {
+      "*": {
+        "_sourceOffset": 10834,
+        "attributes": {
+          "id": "sp_q4_choice_wrap"
+        },
+        "id": "sp/sp_q4_choice_wrap",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q4_stem",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_choice",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q4_fb_a": {
+      "*": {
+        "_sourceOffset": 11419,
+        "attributes": {
+          "id": "sp_q4_fb_a"
+        },
+        "id": "sp/sp_q4_fb_a",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q4_fb_a_card",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_fb_a_1",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_fb_a_2",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_fb_a_3",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q4_fb_a_1": {
+      "*": {
+        "_sourceOffset": 11659,
+        "attributes": {
+          "id": "sp_q4_fb_a_1",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q4_fb_a_1",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q4_fb_a_1m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q4_fb_a_1m": {
+      "*": {
+        "_sourceOffset": 11702,
+        "attributes": {
+          "id": "sp_q4_fb_a_1m"
+        },
+        "id": "sp/sp_q4_fb_a_1m",
+        "kids": "Do satellite cells stop all muscle damage and soreness?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q4_fb_a_2": {
+      "*": {
+        "_sourceOffset": 11811,
+        "attributes": {
+          "id": "sp_q4_fb_a_2",
+          "side": "primary",
+          "who": "Jamal"
+        },
+        "id": "sp/sp_q4_fb_a_2",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q4_fb_a_2m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q4_fb_a_2m": {
+      "*": {
+        "_sourceOffset": 11853,
+        "attributes": {
+          "id": "sp_q4_fb_a_2m"
+        },
+        "id": "sp/sp_q4_fb_a_2m",
+        "kids": "That sounds too absolute. Soreness can still happen after training.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q4_fb_a_3": {
+      "*": {
+        "_sourceOffset": 11974,
+        "attributes": {
+          "id": "sp_q4_fb_a_3",
+          "side": "primary",
+          "who": "Tasha"
+        },
+        "id": "sp/sp_q4_fb_a_3",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q4_fb_a_3m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q4_fb_a_3m": {
+      "*": {
+        "_sourceOffset": 12016,
+        "attributes": {
+          "id": "sp_q4_fb_a_3m"
+        },
+        "id": "sp/sp_q4_fb_a_3m",
+        "kids": "Right. Choice A exaggerates what satellite cells do.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q4_fb_a_card": {
+      "*": {
+        "_sourceOffset": 11446,
+        "attributes": {
+          "id": "sp_q4_fb_a_card"
+        },
+        "id": "sp/sp_q4_fb_a_card",
+        "kids": "**✗ Weakest reply: Choice A**\n\n*\"They reduce all soreness by blocking muscle damage.\"*\n\nSatellite cells don't prevent all damage or eliminate every feeling of soreness.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q4_fb_b": {
+      "*": {
+        "_sourceOffset": 12135,
+        "attributes": {
+          "id": "sp_q4_fb_b"
+        },
+        "id": "sp/sp_q4_fb_b",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q4_fb_b_card",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_fb_b_1",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_fb_b_2",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_fb_b_3",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q4_fb_b_1": {
+      "*": {
+        "_sourceOffset": 12393,
+        "attributes": {
+          "id": "sp_q4_fb_b_1",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q4_fb_b_1",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q4_fb_b_1m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q4_fb_b_1m": {
+      "*": {
+        "_sourceOffset": 12436,
+        "attributes": {
+          "id": "sp_q4_fb_b_1m"
+        },
+        "id": "sp/sp_q4_fb_b_1m",
+        "kids": "So these cells help repair my muscle fibers after training?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q4_fb_b_2": {
+      "*": {
+        "_sourceOffset": 12549,
+        "attributes": {
+          "id": "sp_q4_fb_b_2",
+          "side": "primary",
+          "who": "Jamal"
+        },
+        "id": "sp/sp_q4_fb_b_2",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q4_fb_b_2m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q4_fb_b_2m": {
+      "*": {
+        "_sourceOffset": 12591,
+        "attributes": {
+          "id": "sp_q4_fb_b_2m"
+        },
+        "id": "sp/sp_q4_fb_b_2m",
+        "kids": "And that repair can support growth during recovery?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q4_fb_b_3": {
+      "*": {
+        "_sourceOffset": 12696,
+        "attributes": {
+          "id": "sp_q4_fb_b_3",
+          "side": "primary",
+          "who": "Tasha"
+        },
+        "id": "sp/sp_q4_fb_b_3",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q4_fb_b_3m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q4_fb_b_3m": {
+      "*": {
+        "_sourceOffset": 12738,
+        "attributes": {
+          "id": "sp_q4_fb_b_3m"
+        },
+        "id": "sp/sp_q4_fb_b_3m",
+        "kids": "Exactly. That makes Choice B the strongest reply.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q4_fb_b_card": {
+      "*": {
+        "_sourceOffset": 12162,
+        "attributes": {
+          "id": "sp_q4_fb_b_card"
+        },
+        "id": "sp/sp_q4_fb_b_card",
+        "kids": "**✓ Best reply: Choice B**\n\n*\"They repair fibers and support muscle growth.\"*\n\nThis is the best reply because satellite cells help repair muscle fibers and support growth after training.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q4_fb_c": {
+      "*": {
+        "_sourceOffset": 12854,
+        "attributes": {
+          "id": "sp_q4_fb_c"
+        },
+        "id": "sp/sp_q4_fb_c",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q4_fb_c_card",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_fb_c_1",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_fb_c_2",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q4_fb_c_3",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q4_fb_c_1": {
+      "*": {
+        "_sourceOffset": 13129,
+        "attributes": {
+          "id": "sp_q4_fb_c_1",
+          "side": "primary",
+          "who": "Jamal"
+        },
+        "id": "sp/sp_q4_fb_c_1",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q4_fb_c_1m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q4_fb_c_1m": {
+      "*": {
+        "_sourceOffset": 13171,
+        "attributes": {
+          "id": "sp_q4_fb_c_1m"
+        },
+        "id": "sp/sp_q4_fb_c_1m",
+        "kids": "Rest matters, but that still doesn't explain what satellite cells actually do.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q4_fb_c_2": {
+      "*": {
+        "_sourceOffset": 13303,
+        "attributes": {
+          "id": "sp_q4_fb_c_2",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q4_fb_c_2",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q4_fb_c_2m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q4_fb_c_2m": {
+      "*": {
+        "_sourceOffset": 13346,
+        "attributes": {
+          "id": "sp_q4_fb_c_2m"
+        },
+        "id": "sp/sp_q4_fb_c_2m",
+        "kids": "Right. Recovery helps, but the reply needs more science.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q4_fb_c_3": {
+      "*": {
+        "_sourceOffset": 13456,
+        "attributes": {
+          "id": "sp_q4_fb_c_3",
+          "side": "primary",
+          "who": "Tasha"
+        },
+        "id": "sp/sp_q4_fb_c_3",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q4_fb_c_3m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q4_fb_c_3m": {
+      "*": {
+        "_sourceOffset": 13498,
+        "attributes": {
+          "id": "sp_q4_fb_c_3m"
+        },
+        "id": "sp/sp_q4_fb_c_3m",
+        "kids": "Exactly. Choice C is helpful, but incomplete.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q4_fb_c_card": {
+      "*": {
+        "_sourceOffset": 12881,
+        "attributes": {
+          "id": "sp_q4_fb_c_card"
+        },
+        "id": "sp/sp_q4_fb_c_card",
+        "kids": "**◐ Partially correct: Choice C**\n\n*\"They support recovery, but rest is still necessary.\"*\n\nRest does support recovery, but the reply doesn't explain how satellite cells repair fibers and support growth.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q4_feedback": {
+      "*": {
+        "_sourceOffset": 11335,
+        "attributes": {
+          "id": "sp_q4_feedback",
+          "target": "sp_fb_pending",
+          "targetRef": "sp_q4_choice"
+        },
+        "id": "sp/sp_q4_feedback",
+        "kids": [
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "UseDynamic"
+      }
+    },
+    "sp/sp_q4_stem": {
+      "*": {
+        "_sourceOffset": 10868,
+        "attributes": {
+          "id": "sp_q4_stem"
+        },
+        "id": "sp/sp_q4_stem",
+        "kids": "**Which PLC reply best answers Marcus?** *What are satellite cells doing while he recovers?*",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_choice": {
+      "*": {
+        "_sourceOffset": 14007,
+        "attributes": {
+          "id": "sp_q5_choice",
+          "reverseCoded": false
+        },
+        "id": "sp/sp_q5_choice",
+        "kids": [
+          {
+            "definitionKey": "sp/_0294d81fd95442a57b865e82a63e045f8b14c396",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/_a6cc7af58ed56c537c64fe86c98742caa4c44231",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/_e9840758dfc3e1a1fdb6e737b6f7ec0df25a0c3b",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "ChoiceInput"
+      }
+    },
+    "sp/sp_q5_choice_wrap": {
+      "*": {
+        "_sourceOffset": 13830,
+        "attributes": {
+          "id": "sp_q5_choice_wrap"
+        },
+        "id": "sp/sp_q5_choice_wrap",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_stem",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_choice",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q5_fb_a": {
+      "*": {
+        "_sourceOffset": 14446,
+        "attributes": {
+          "id": "sp_q5_fb_a"
+        },
+        "id": "sp/sp_q5_fb_a",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_a_card",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_a_1",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_a_2",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_a_3",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_a_4",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q5_fb_a_1": {
+      "*": {
+        "_sourceOffset": 14750,
+        "attributes": {
+          "id": "sp_q5_fb_a_1",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q5_fb_a_1",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_a_1m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q5_fb_a_1m": {
+      "*": {
+        "_sourceOffset": 14793,
+        "attributes": {
+          "id": "sp_q5_fb_a_1m"
+        },
+        "id": "sp/sp_q5_fb_a_1m",
+        "kids": "Should I add even more slow lowering work?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_fb_a_2": {
+      "*": {
+        "_sourceOffset": 14889,
+        "attributes": {
+          "id": "sp_q5_fb_a_2",
+          "side": "primary",
+          "who": "Jamal"
+        },
+        "id": "sp/sp_q5_fb_a_2",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_a_2m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q5_fb_a_2m": {
+      "*": {
+        "_sourceOffset": 14931,
+        "attributes": {
+          "id": "sp_q5_fb_a_2m"
+        },
+        "id": "sp/sp_q5_fb_a_2m",
+        "kids": "That could make the soreness worse.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_fb_a_3": {
+      "*": {
+        "_sourceOffset": 15020,
+        "attributes": {
+          "id": "sp_q5_fb_a_3",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q5_fb_a_3",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_a_3m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q5_fb_a_3m": {
+      "*": {
+        "_sourceOffset": 15063,
+        "attributes": {
+          "id": "sp_q5_fb_a_3m"
+        },
+        "id": "sp/sp_q5_fb_a_3m",
+        "kids": "So pushing harder now isn't the best move?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_fb_a_4": {
+      "*": {
+        "_sourceOffset": 15159,
+        "attributes": {
+          "id": "sp_q5_fb_a_4",
+          "side": "primary",
+          "who": "Tasha"
+        },
+        "id": "sp/sp_q5_fb_a_4",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_a_4m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q5_fb_a_4m": {
+      "*": {
+        "_sourceOffset": 15201,
+        "attributes": {
+          "id": "sp_q5_fb_a_4m"
+        },
+        "id": "sp/sp_q5_fb_a_4m",
+        "kids": "Right. Too much, too soon can raise injury risk.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_fb_a_card": {
+      "*": {
+        "_sourceOffset": 14473,
+        "attributes": {
+          "id": "sp_q5_fb_a_card"
+        },
+        "id": "sp/sp_q5_fb_a_card",
+        "kids": "**✗ Weakest reply: Choice A**\n\n*\"Increase eccentric loading to speed adaptation quickly.\"*\n\nIncreasing eccentric loading too quickly can worsen soreness and raise injury risk. It isn't a safe adjustment after new slow lowering work.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_fb_b": {
+      "*": {
+        "_sourceOffset": 15316,
+        "attributes": {
+          "id": "sp_q5_fb_b"
+        },
+        "id": "sp/sp_q5_fb_b",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_b_card",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_b_1",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_b_2",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_b_3",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_b_4",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q5_fb_b_1": {
+      "*": {
+        "_sourceOffset": 15648,
+        "attributes": {
+          "id": "sp_q5_fb_b_1",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q5_fb_b_1",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_b_1m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q5_fb_b_1m": {
+      "*": {
+        "_sourceOffset": 15691,
+        "attributes": {
+          "id": "sp_q5_fb_b_1m"
+        },
+        "id": "sp/sp_q5_fb_b_1m",
+        "kids": "Should I stop all resistance training until the soreness is gone?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_fb_b_2": {
+      "*": {
+        "_sourceOffset": 15810,
+        "attributes": {
+          "id": "sp_q5_fb_b_2",
+          "side": "primary",
+          "who": "Jamal"
+        },
+        "id": "sp/sp_q5_fb_b_2",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_b_2m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q5_fb_b_2m": {
+      "*": {
+        "_sourceOffset": 15852,
+        "attributes": {
+          "id": "sp_q5_fb_b_2m"
+        },
+        "id": "sp/sp_q5_fb_b_2m",
+        "kids": "Rest may help, but do you need to stop everything?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_fb_b_3": {
+      "*": {
+        "_sourceOffset": 15956,
+        "attributes": {
+          "id": "sp_q5_fb_b_3",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q5_fb_b_3",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_b_3m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q5_fb_b_3m": {
+      "*": {
+        "_sourceOffset": 15999,
+        "attributes": {
+          "id": "sp_q5_fb_b_3m"
+        },
+        "id": "sp/sp_q5_fb_b_3m",
+        "kids": "So I may need to modify my training, not stop completely?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_fb_b_4": {
+      "*": {
+        "_sourceOffset": 16110,
+        "attributes": {
+          "id": "sp_q5_fb_b_4",
+          "side": "primary",
+          "who": "Tasha"
+        },
+        "id": "sp/sp_q5_fb_b_4",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_b_4m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q5_fb_b_4m": {
+      "*": {
+        "_sourceOffset": 16152,
+        "attributes": {
+          "id": "sp_q5_fb_b_4m"
+        },
+        "id": "sp/sp_q5_fb_b_4m",
+        "kids": "Usually, yes. Adjust the workload and keep recovery in mind.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_fb_b_card": {
+      "*": {
+        "_sourceOffset": 15343,
+        "attributes": {
+          "id": "sp_q5_fb_b_card"
+        },
+        "id": "sp/sp_q5_fb_b_card",
+        "kids": "**◐ Partially correct: Choice B**\n\n*\"Remove resistance training until soreness fully disappears.\"*\n\nRest may help when soreness is strong, but stopping all resistance training is usually unnecessary. The reply doesn't explain how to adjust the workload safely.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_fb_c": {
+      "*": {
+        "_sourceOffset": 16279,
+        "attributes": {
+          "id": "sp_q5_fb_c"
+        },
+        "id": "sp/sp_q5_fb_c",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_c_card",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_c_1",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_c_2",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_c_3",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q5_fb_c_4",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q5_fb_c_1": {
+      "*": {
+        "_sourceOffset": 16552,
+        "attributes": {
+          "id": "sp_q5_fb_c_1",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q5_fb_c_1",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_c_1m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q5_fb_c_1m": {
+      "*": {
+        "_sourceOffset": 16595,
+        "attributes": {
+          "id": "sp_q5_fb_c_1m"
+        },
+        "id": "sp/sp_q5_fb_c_1m",
+        "kids": "What if I reduce the workload first?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_fb_c_2": {
+      "*": {
+        "_sourceOffset": 16685,
+        "attributes": {
+          "id": "sp_q5_fb_c_2",
+          "side": "primary",
+          "who": "Jamal"
+        },
+        "id": "sp/sp_q5_fb_c_2",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_c_2m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q5_fb_c_2m": {
+      "*": {
+        "_sourceOffset": 16727,
+        "attributes": {
+          "id": "sp_q5_fb_c_2m"
+        },
+        "id": "sp/sp_q5_fb_c_2m",
+        "kids": "Then you can build it back gradually as you adapt.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_fb_c_3": {
+      "*": {
+        "_sourceOffset": 16831,
+        "attributes": {
+          "id": "sp_q5_fb_c_3",
+          "side": "primary",
+          "who": "Marcus"
+        },
+        "id": "sp/sp_q5_fb_c_3",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_c_3m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q5_fb_c_3m": {
+      "*": {
+        "_sourceOffset": 16874,
+        "attributes": {
+          "id": "sp_q5_fb_c_3m"
+        },
+        "id": "sp/sp_q5_fb_c_3m",
+        "kids": "So this is the safest next step?",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_fb_c_4": {
+      "*": {
+        "_sourceOffset": 16960,
+        "attributes": {
+          "id": "sp_q5_fb_c_4",
+          "side": "primary",
+          "who": "Tasha"
+        },
+        "id": "sp/sp_q5_fb_c_4",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q5_fb_c_4m",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TalkBubble"
+      }
+    },
+    "sp/sp_q5_fb_c_4m": {
+      "*": {
+        "_sourceOffset": 17002,
+        "attributes": {
+          "id": "sp_q5_fb_c_4m"
+        },
+        "id": "sp/sp_q5_fb_c_4m",
+        "kids": "Exactly. It supports recovery and safer progress.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_fb_c_card": {
+      "*": {
+        "_sourceOffset": 16306,
+        "attributes": {
+          "id": "sp_q5_fb_c_card"
+        },
+        "id": "sp/sp_q5_fb_c_card",
+        "kids": "**✓ Best reply: Choice C**\n\n*\"Lower volume and progress eccentric work gradually.\"*\n\nGradual progression helps the muscles adapt to slow lowering work while reducing excessive soreness and injury risk.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q5_feedback": {
+      "*": {
+        "_sourceOffset": 14362,
+        "attributes": {
+          "id": "sp_q5_feedback",
+          "target": "sp_fb_pending",
+          "targetRef": "sp_q5_choice"
+        },
+        "id": "sp/sp_q5_feedback",
+        "kids": [
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "UseDynamic"
+      }
+    },
+    "sp/sp_q5_stem": {
+      "*": {
+        "_sourceOffset": 13864,
+        "attributes": {
+          "id": "sp_q5_stem"
+        },
+        "id": "sp/sp_q5_stem",
+        "kids": "**Which training adjustment best addresses Marcus's delayed soreness after the slow lowering exercises?**",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q6": {
+      "*": {
+        "_sourceOffset": 17322,
+        "attributes": {
+          "id": "sp_q6"
+        },
+        "id": "sp/sp_q6",
+        "kids": [
+          {
+            "definitionKey": "sp/sp_q6_prompt",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q6_answer",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q6_count",
+            "type": "block"
+          },
+          {
+            "definitionKey": "sp/sp_q6_more",
+            "type": "block"
+          }
+        ],
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Vertical"
+      }
+    },
+    "sp/sp_q6_answer": {
+      "*": {
+        "_sourceOffset": 17727,
+        "attributes": {
+          "id": "sp_q6_answer",
+          "placeholder": "I'd check... first, because... Second... My recommendation is...",
+          "rows": "8"
+        },
+        "id": "sp/sp_q6_answer",
+        "kids": "",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "TextArea"
+      }
+    },
+    "sp/sp_q6_count": {
+      "*": {
+        "_sourceOffset": 17856,
+        "attributes": {
+          "id": "sp_q6_count",
+          "when": {
+            "ast": {
+              "left": {
+                "arguments": [
+                  {
+                    "fields": [
+                      "value"
+                    ],
+                    "id": "sp_q6_answer",
+                    "sigil": "@",
+                    "type": "SigilRef"
+                  }
+                ],
+                "callee": {
+                  "name": "wordcount",
+                  "type": "Identifier"
+                },
+                "type": "Call"
+              },
+              "op": "<",
+              "right": {
+                "type": "Number",
+                "value": 12
+              },
+              "type": "BinaryOp"
+            },
+            "expr": "wordcount(@sp_q6_answer.value) < 12"
+          }
+        },
+        "id": "sp/sp_q6_count",
+        "kids": "*{{wordcount(@sp_q6_answer.value)}} of 12 words. Write at least 12 to continue.*",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q6_more": {
+      "*": {
+        "_sourceOffset": 18021,
+        "attributes": {
+          "id": "sp_q6_more",
+          "when": {
+            "ast": {
+              "left": {
+                "left": {
+                  "arguments": [
+                    {
+                      "fields": [
+                        "value"
+                      ],
+                      "id": "sp_q6_answer",
+                      "sigil": "@",
+                      "type": "SigilRef"
+                    }
+                  ],
+                  "callee": {
+                    "name": "wordcount",
+                    "type": "Identifier"
+                  },
+                  "type": "Call"
+                },
+                "op": ">=",
+                "right": {
+                  "type": "Number",
+                  "value": 12
+                },
+                "type": "BinaryOp"
+              },
+              "op": "&&",
+              "right": {
+                "left": {
+                  "arguments": [
+                    {
+                      "fields": [
+                        "value"
+                      ],
+                      "id": "sp_q6_answer",
+                      "sigil": "@",
+                      "type": "SigilRef"
+                    }
+                  ],
+                  "callee": {
+                    "name": "wordcount",
+                    "type": "Identifier"
+                  },
+                  "type": "Call"
+                },
+                "op": "<",
+                "right": {
+                  "type": "Number",
+                  "value": 80
+                },
+                "type": "BinaryOp"
+              },
+              "type": "BinaryOp"
+            },
+            "expr": "wordcount(@sp_q6_answer.value) >= 12 && wordcount(@sp_q6_answer.value) < 80"
+          }
+        },
+        "id": "sp/sp_q6_more",
+        "kids": "*{{wordcount(@sp_q6_answer.value)}} words. That's enough to continue, but the strongest answers usually run closer to 80.*",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_q6_prompt": {
+      "*": {
+        "_sourceOffset": 17344,
+        "attributes": {
+          "id": "sp_q6_prompt"
+        },
+        "id": "sp/sp_q6_prompt",
+        "kids": "**Your recommendation for Jamal**\n\nName the factors you'd check first, explain how each one could be slowing the client's progress, and tell Jamal what you would change. Use what the PLC worked through today: progression, recovery, fiber types and individual differences, satellite cells and repair, and soreness after new or eccentric work.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_activities.olx#3bb12dee332a8753",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_read": {
+      "*": {
+        "_sourceOffset": 3710,
+        "attributes": {
+          "id": "sp_read"
+        },
+        "id": "sp/sp_read",
+        "kids": "**The PLC's first read**\n\n- **Progression.** 135 × 8 for four weeks gives the muscle no new stimulus. There's no progressive overload.\n- **Recovery.** Adaptation happens between sessions. Short sleep, job stress, and lingering soreness suggest recovery isn't keeping up.\n- **Early gains level off.** A beginner's first strength gains are largely neural (more motor units recruited, better coordination). Later gains depend on the muscle itself adapting, which is slower.\n- **Individual differences.** Genetics, fiber type, and training history affect how fast people progress.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_satellite": {
+      "*": {
+        "_sourceOffset": 8561,
+        "attributes": {
+          "id": "sp_satellite"
+        },
+        "id": "sp/sp_satellite",
+        "kids": "**What satellite cells do**\n\n1. **Wait.** Satellite cells are muscle stem cells that sit along the outside of each muscle fiber. Most of the time they're quiet.\n2. **Activate.** A hard workout strains or damages fibers, and that signals the satellite cells to wake up.\n3. **Multiply.** They divide, making more cells to work with.\n4. **Fuse and repair.** They fuse with the damaged fibers, helping repair them and donating new nuclei.\n5. **Support growth.** The extra nuclei help the fiber grow larger over time.\n\n**What they don't do:** stop soreness, prevent all damage, or replace rest. The repair happens *during* recovery.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    },
+    "sp/sp_sba": {
+      "en-Latn-US": {
+        "_sourceOffset": 1073,
+        "attributes": {
+          "cast": {
+            "Jamal": {
+              "groups": [
+                "plc"
+              ],
+              "name": "Jamal",
+              "profile": {
+                "bio": "Jamal works one-on-one with general-fitness clients. He's careful about technique and cares a lot about his clients. He also loves heavy lifting himself. This week he's brought the PLC a client who has stopped making progress.",
+                "role": "Personal Trainer",
+                "skills": [
+                  "Personal training",
+                  "Strength training",
+                  "Client relationships"
+                ]
+              },
+              "src": "images/avatar_jamal.jpg"
+            },
+            "Marcus": {
+              "groups": [
+                "plc"
+              ],
+              "name": "Marcus",
+              "profile": {
+                "bio": "Marcus coaches athletes and is the PLC's go-to for the physiology. He's an endurance athlete at heart and the opposite of Jamal in the gym, which makes the two of them a useful comparison.",
+                "role": "Strength Coach",
+                "skills": [
+                  "Strength and conditioning",
+                  "Exercise physiology",
+                  "Endurance training"
+                ]
+              },
+              "src": "images/avatar_marcus.jpg"
+            },
+            "Tasha": {
+              "groups": [
+                "plc"
+              ],
+              "name": "Tasha",
+              "profile": {
+                "bio": "Tasha runs the gym's weekly PLC, the professional learning community where trainers bring real client cases and work through them together. Her rule is simple. Look at the evidence and connect it to the science before anyone changes a program.",
+                "role": "Lead Trainer",
+                "skills": [
+                  "Program design",
+                  "Coaching trainers",
+                  "Evidence-based practice"
+                ]
+              },
+              "src": "images/avatar_tasha.jpg"
+            }
+          },
+          "id": "sp_sba",
+          "launchable": "true",
+          "title": "The New Client's Strength Plateau"
+        },
+        "category": "strength_plateau",
+        "description": "The New Client's Strength Plateau (ESMS 3700, draft). You join a gym's trainers' PLC as Jamal brings a client whose bench press has stalled at 135 for 8. Over five short cases with Jamal, Tasha, and Marcus you work through fiber types, individual differences, satellite cells, and soreness after eccentric work, then give Jamal a recommendation to take back to his client.",
+        "id": "sp/sp_sba",
+        "index": 1,
+        "kids": [
+          {
+            "definitionKey": "sp/sp_split",
+            "type": "block"
+          }
+        ],
+        "lang": "en-Latn-US",
+        "parseDeps": [
+          "file:content://characters.cast#1792174261732.909"
+        ],
+        "source": "file:content://strength_plateau_sba.olx#1debe7e32afde1c6",
+        "tag": "Cast"
+      }
+    },
+    "sp/sp_split": {
+      "en-Latn-US": {
+        "_sourceOffset": 1188,
+        "attributes": {
+          "id": "sp_split",
+          "sizes": "60, 40"
+        },
+        "id": "sp/sp_split",
+        "kids": {
+          "end": [
+            {
+              "definitionKey": "sp/sp_panel",
+              "type": "block"
+            }
+          ],
+          "left": null,
+          "right": null,
+          "start": [
+            {
+              "definitionKey": "sp/sp_chat",
+              "type": "block"
+            }
+          ]
+        },
+        "lang": "en-Latn-US",
+        "parseDeps": [
+        ],
+        "source": "file:content://strength_plateau_sba.olx#1debe7e32afde1c6",
+        "tag": "SplitPanel"
+      }
+    },
+    "sp/sp_why_differ": {
+      "*": {
+        "_sourceOffset": 5346,
+        "attributes": {
+          "id": "sp_why_differ"
+        },
+        "id": "sp/sp_why_differ",
+        "kids": "**Why the same plan can give different results**\n\n- Muscles are a mix of **Type I (slow-twitch)** and **Type II (fast-twitch)** fibers, and the mix varies a lot from person to person. Much of it is **inherited**.\n- Training changes how fibers perform, but it doesn't erase those differences, so people gain strength at different rates.\n- **Recovery** (sleep, stress, nutrition) also shapes how well each person adapts.\n- **Effort** matters, but it isn't the whole story. **Soreness** doesn't predict who will progress faster.\n\n**Coaching takeaway:** check recovery, keep progression gradual, and judge each client against their own rate of progress.",
+        "lang": "*",
+        "parseDeps": [
+        ],
+        "source": "file:content://sp_panels.olx#b36e73a1262b8f04",
+        "tag": "Markdown"
+      }
+    }
+  },
+  "ok": true
+}
